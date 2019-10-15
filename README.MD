@@ -1,6 +1,8 @@
 # tindev-react
 
-Tindev made using React framework and NodeJS
+Tindev - Application to connect developers using Github API.
+
+Made using React framework and NodeJS
 
 **Back-End**
 
