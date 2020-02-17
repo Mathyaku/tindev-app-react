@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  Tindev - Application to connect developers using Github API.
+  TinDev - Application to connect developers using Github API.
   
   Made using React framework and NodeJS.
 </p>
